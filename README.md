@@ -1,16 +1,7 @@
-<h1 align="center">Halo, saya [Nama Anda]! 👋</h1>
+<h1 align="center">Halo, saya M.Syifa Anshori 👋</h1>
 
 <p align="center">
-  <b>Mahasiswa Sistem Informasi | Web Developer Enthusiast</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/[username-anda]">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:emailanda@example.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
+  <b>Mahasiswa Sistem Informasi</b>
 </p>
 
 ---
