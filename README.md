@@ -11,7 +11,7 @@
 Saya adalah mahasiswa **Sistem Informasi** yang memiliki ketertarikan pada pengembangan sistem dan teknologi perkotaan (Smart City). Saat ini saya sedang fokus mendalami pengembangan web *back-end* dan manajemen basis data.
 
 - 🌱 Saya sedang belajar: **Framework Laravel, PHP, dan MySQL**
-- 🔭 Saya tertarik mengembangkan: **Sistem Informasi Manajemen & Web Apps**
+- 🔭 Saya tertarik mengembangkan: **Sistem Informasi Kota Cerdas & Web Apps**
 - 💬 Tanya saya tentang: **Database & Arsitektur Sistem Informasi**
 
 ---
