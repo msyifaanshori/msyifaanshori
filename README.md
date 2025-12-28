@@ -1,7 +1,7 @@
 <h1 align="center">Halo, saya M.Syifa Anshori 👋</h1>
 
 <p align="center">
-  <b>Mahasiswa Sistem Informasi</b>
+  <b>Mahasiswa Sistem Informasi Kota Cerdas</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Berikut adalah bahasa pemrograman dan teknologi yang sering saya gunakan dan pel
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 ---
 <p align="center">Terima kasih sudah berkunjung! 🚀</p>
